@@ -25,6 +25,19 @@
   width: 128px;
 }
 
+#links {
+  position: relative;
+  padding-top: 10%;
+}
+#links h2 {
+  font-family: 'Source Code Pro', monospace;
+  color: #d1d1d1;
+}
+#links a {
+  font-family: 'Source Code Pro', monospace;
+  color: #bcdcff
+}
+
 #bg {
   position: fixed;
   top: -50%;
